@@ -1,0 +1,29 @@
+/* .home_section{
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px 0px;
+}
+.home_section .wrapper{
+    display: flex;
+    gap: 100px;
+}
+.home_section .left{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+.home_section b{
+    color: orange;
+}
+.home_section p{
+    color: grey;
+}
+.home_section button{
+    padding: 5px 20px;
+    border-radius: 10px;
+    width: 200px;
+    background-color: orange;
+    color: white;
+    font-size: 14px;
+    border: none;
+} */

@@ -1,0 +1,35 @@
+/* .card_section{
+    max-width: 1200px;
+    margin: auto;
+    padding: 50px 0px;
+}
+.card_section .wrapper{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+}
+.card_section .start_item{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 20px;
+}
+.card_section  .start_item b{
+    color: orange;
+}
+.card_section .start_item p{
+    color: grey;
+}
+.card_section .cards{
+    display: flex;
+    gap: 20px;
+}
+.card_section .cards .card{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    border: 3px solid grey;
+} */
